@@ -34,7 +34,7 @@ function NavBar() {
   return (
     <Router>
       <div style={headerStyle}>
-        <h2>Buiding API</h2>
+        <h2>Building API</h2>
       </div>
 
       <nav style={navMenu}>
